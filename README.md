@@ -4,6 +4,8 @@ Expression Manager and Queue Implementation
 
 This repository contains C++ code for an Expression Manager that performs operations such as balanced parentheses check and infix to postfix conversion, using stacks. It also includes an implementation of a queue with basic operations.
 
+-----------------------------------------------
+
 How to Run
 Clone the Repository:
 
@@ -22,6 +24,9 @@ Run the Executable:
 bash
 Copy code
 ./main
+
+-----------------------------------------------
+TESTING
 
 1. Balanced Parentheses Check:
 Input: Ask the user to enter an expression containing parentheses, curly braces, and square brackets.
