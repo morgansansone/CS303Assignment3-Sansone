@@ -83,13 +83,18 @@ Queue size: 3
 
 Screenshots
 
-Balanced 
+Balanced Parentheses Check
 ![Screen Shot 2023-11-09 at 2 46 59 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/f9ebfd83-0c8f-4f0b-8989-1cee589fcac6)
 ![Screen Shot 2023-11-09 at 2 47 28 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/d5669064-1ce9-40ed-a1ab-773b10445a4c)
+
+
+
 
 Unbalanced Parentheses Check
 ![Screen Shot 2023-11-09 at 2 48 45 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/c3a52e6f-c137-44b8-86f0-467378958052)
 ![Screen Shot 2023-11-09 at 2 49 11 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/89f5d271-4fcb-45d6-9be4-c550daeffe2a)
+
+
 
 
 Infix to Postfix Conversion
@@ -97,11 +102,14 @@ Infix to Postfix Conversion
 ![Screen Shot 2023-11-09 at 2 50 44 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/f1d1ab65-7a98-4939-a8e7-eeaaa16c980e)
 
 
+
+
 Queue Operations
 
 Enqueue
 ![Screen Shot 2023-11-09 at 2 51 25 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/6409ddd2-80b3-4259-8cc5-daf29405856d)
 ![Screen Shot 2023-11-09 at 2 51 49 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/e2674e8c-8f65-490c-991f-4b4a2424246b)
+
 
 Dequeue
 ![Screen Shot 2023-11-09 at 2 52 24 PM](https://github.com/morgansansone/CS303Assignment3-Sansone/assets/113535872/81b5c731-c53f-4e91-93dd-9ac764bf092d)
